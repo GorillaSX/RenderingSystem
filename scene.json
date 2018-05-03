@@ -1,0 +1,21 @@
+{
+    "General": {
+        "rayMinDistance" : 0.0001,
+        "backgroundColor" : [0.0, 0.0, 0.0],
+        "offLensColor" : [0.0, 0.0, 0.0],
+        "normalMapping" : true,
+        "normalInterpolation" : true,
+        "normalVisualization" : false,
+        "interpolationVisualization" : false
+    },
+    "Renderer" : {
+        "filtering" : true,
+        "type" : 1 
+    },
+    "Camera" : {
+        "position" : [0.0, 1.0, 3.5],
+        "orientation" : [0.0, 0.0, 0.0]
+    },
+    "Models": ["data/models/cornellbox/cornellbox.obj"]
+
+}

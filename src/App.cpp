@@ -1,3 +1,4 @@
+//This file is a good example to demonstrate my programming skills in C++ and oo design.
 #include "commonHeaders.h"
 #include <signal.h>
 #include <cuda_runtime.h>
